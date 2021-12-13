@@ -28,5 +28,5 @@ docker-compose down
 
 # Admin UI available
 ```
-http://127.0.0.1:4161/
+http://127.0.0.1:4171/
 ```
